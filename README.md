@@ -31,7 +31,7 @@ class QuemSouEu:
 
 Estatísticas do Github
 
-<img src="https://github-readme-stats.vercel.app/api?username=joao-vitor-oliveira-dev1&show_icons=true&count_private=true&theme=github_dark">	<img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-vitor-oliveira-dev1&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joaovitordeoliveira868&show_icons=true&count_private=true&theme=github_dark">	<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitordeoliveira868&theme=blueberry_duo"/>
 
 
 
@@ -88,9 +88,8 @@ Conecte-se Comigo
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-547884323/"><img alt="Linkedin" title="João Vitor de Oliveira Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/joao-vitor-oliveira-dev1"><img alt="Github" title="João Vitor de Oliveira Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="joao.v.oliveira.7811@gmail.com"><img alt="Gmail" title="João Vitor de Oliveira Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<!-- Adicione outros links como Twitter, Instagram, etc., seguindo o modelo -->
 </p>
 
 
 João Vitor de Oliveira
-Editado pela última vez em - 24/05/2024
+Editado pela última vez em - 16/06/2025
